@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.example.gamesumnumbers.app-mergeDebugResources-4:/layout/activity_main.xml",
+        "source": "com.example.gamesumnumbers.app-main-7:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.gamesumnumbers.app-mergeDebugResources-4:/layout/fragment_choose_level.xml",
+        "source": "com.example.gamesumnumbers.app-main-7:/layout/fragment_choose_level.xml"
+    },
+    {
+        "merged": "com.example.gamesumnumbers.app-mergeDebugResources-4:/layout/fragment_game_finished.xml",
+        "source": "com.example.gamesumnumbers.app-main-7:/layout/fragment_game_finished.xml"
+    },
+    {
+        "merged": "com.example.gamesumnumbers.app-mergeDebugResources-4:/layout/fragment_welcome.xml",
+        "source": "com.example.gamesumnumbers.app-main-7:/layout/fragment_welcome.xml"
+    },
+    {
+        "merged": "com.example.gamesumnumbers.app-mergeDebugResources-4:/layout/fragment_game.xml",
+        "source": "com.example.gamesumnumbers.app-main-7:/layout/fragment_game.xml"
+    }
+]
